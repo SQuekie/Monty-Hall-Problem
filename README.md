@@ -1,7 +1,6 @@
 # Monty-Hall-Problem
 
-Suppose you’re on a game show, and you’re given the choice of three doors: <br />
-Behind one door is a car; behind the others, goats. <br />
+Suppose you’re on a game show, and you’re given the choice of three doors: Behind one door is a car; behind the others, goats. <br />
 You pick a door, say No. 1, and the host, who knows what’s behind the doors, opens another door, say No. 3, which has a goat. <br />
 He then says to you, “Do you want to pick door No. 2?” <br />
 Is it to your advantage to switch your choice? <br />
